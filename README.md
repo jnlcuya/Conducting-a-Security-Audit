@@ -4,6 +4,7 @@
 
 The goal is to conduct a comprehensive cybersecurity audit to evaluate the effectiveness of current security controls, identify vulnerabilities and compliance gaps, and provide actionable recommendations to strengthen the organization’s overall security posture and risk management practices.
 
+## Scenario:
 
 
 ### Skills Learned
